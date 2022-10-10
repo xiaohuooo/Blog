@@ -5,7 +5,7 @@ module.exports = {
     theme: 'reco',
     head: [['link', { rel: 'shortcut icon', href: '/logo.png', type: "image/x-icon" }]], // 增加一个自定义的 favicon
     // base: '/',
-    base: '/web-blog/',
+    base: '/Blog-deploy/',
     // 自定义主题配置
     themeConfig: {
         logo: '/logo.png',
