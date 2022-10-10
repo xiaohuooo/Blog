@@ -1,0 +1,18 @@
+{
+  "name": "WebBlog",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs --temp .temp",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "xiaohu<453650969@qq.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress-reco/vuepress-plugin-bulletin-popover": "^1.6.13",
+    "@vuepress/plugin-last-updated": "^1.9.7",
+    "vuepress": "^1.9.7",
+    "vuepress-theme-reco": "^1.6.15"
+  }
+}
