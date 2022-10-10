@@ -138,7 +138,7 @@ module.exports = {
                 },
                 {
                     type: 'image',
-                    src: '/hb.jpg',
+                    src: '/Blog-deploy/hb.jpg',
                 }
             ],
             footer: [
